@@ -1,0 +1,1 @@
+Ways to Organize Notes in Obsidian

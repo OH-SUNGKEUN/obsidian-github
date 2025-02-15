@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian setting/How to take notes on markdown.md",
+                "file": "obsidian setting/Example Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to take notes on markdown"
+              "title": "Example Note"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian setting/How to take notes on markdown.md",
+                "file": "obsidian setting/Example Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to take notes on markdown"
+              "title": "Outline of Example Note"
             }
           },
           {
@@ -177,13 +177,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "8c9bf4d7f81c9ce6",
   "lastOpenFiles": [
-    "test img attach.md",
     "obsidian setting/How to take notes on markdown.md",
+    "obsidian setting/Example Note.md",
+    "test img attach.md",
     "Untitled.md",
     "Files/Pasted image 20250215151239.png",
     "hello.md",
