@@ -6,7 +6,7 @@
       {
         "id": "44522c07be53c65c",
         "type": "tabs",
-        "dimension": 58.44827586206897,
+        "dimension": 46.2962962962963,
         "children": [
           {
             "id": "8c9bf4d7f81c9ce6",
@@ -36,12 +36,13 @@
               "title": "How to take notes on markdown"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9f63d08db0cd4181",
         "type": "tabs",
-        "dimension": 41.55172413793103,
+        "dimension": 53.70370370370371,
         "children": [
           {
             "id": "b6e0c05b3bc617b8",
@@ -216,7 +217,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8c9bf4d7f81c9ce6",
+  "active": "cf8fbe40c79775a4",
   "lastOpenFiles": [
     "obsidian setting/How to take notes on markdown.md",
     "hello.md",
