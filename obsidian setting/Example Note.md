@@ -1,1 +1,13 @@
 Ways to Organize Notes in Obsidian
+- Folder
+	- Power users don't really use folder structure that much, but just to keep notes of similar characteristics in one place.
+- Tag
+- Link
+	- [[How to take notes on markdown]]
+	- [[How to take notes on markdown#Heading 11]]
+	- [[How to take notes on markdown#^472285]]
+	- alias
+		- [[How to take notes on markdown#Heading 1|this is H1 alias]]
+	- Transclusion(Embed)
+		- ![[How to take notes on markdown#^472285]]
+		- 

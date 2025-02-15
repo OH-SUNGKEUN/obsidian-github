@@ -34,7 +34,7 @@ __Bold__
 *Indent*
 _Indent_
 
-***Bold and Indent***
+***Bold and Indent*** ^472285
 
 Underline -> Markdown native support X
 
@@ -75,4 +75,7 @@ YAML frontmatter
 
 control + p : Command pallete
 ctrl + o : Open new file
+
+# Heading 11
+# Heading 22
 
