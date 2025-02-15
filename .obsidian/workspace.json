@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian setting/tutorial.md",
+                "file": "obsidian setting/마크다운 사용법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tutorial"
+              "title": "마크다운 사용법"
             }
           }
         ],
@@ -226,7 +226,7 @@
   "active": "cf8fbe40c79775a4",
   "lastOpenFiles": [
     "무제.md",
-    "obsidian setting/tutorial.md",
+    "obsidian setting/마크다운 사용법.md",
     "hello.md",
     "obsidian setting",
     "test commit.md",
