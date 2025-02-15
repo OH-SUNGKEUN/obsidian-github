@@ -2,8 +2,11 @@ Ways to Organize Notes in Obsidian
 - Folder
 	- Power users don't really use folder structure that much, but just to keep notes of similar characteristics in one place.
 - Tag
-	- #hastag1 #hastag2
-	- 
+	- #hashtag1 #hashtag2
+	- #concept
+	- nested tags
+		- #hastag1/tag1
+		- #hastag1/tag2
 - Link
 	- [[How to take notes on markdown]]
 	- [[How to take notes on markdown#Heading 11]]
