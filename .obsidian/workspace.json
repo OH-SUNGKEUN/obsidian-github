@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "44522c07be53c65c",
-        "type": "tabs",
-        "dimension": 71.39303482587064,
-        "children": [
-          {
-            "id": "8c9bf4d7f81c9ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian setting/Example Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Example Note"
-            }
-          }
-        ]
-      },
-      {
         "id": "b282c4eb56d3f94f",
         "type": "tabs",
-        "dimension": 28.60696517412935,
         "children": [
           {
             "id": "16ea9cbf22eb8221",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian setting/How to take notes on markdown.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to take notes on markdown"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -96,8 +70,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "hello 의 백링크"
+              "title": "Backlinks"
             }
           },
           {
@@ -136,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "hello 의 나가는 링크"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,7 +127,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "태그"
+              "title": "Tags"
             }
           },
           {
@@ -165,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian setting/Example Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Example Note"
+              "title": "Outline"
             }
           },
           {
@@ -185,11 +155,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,15 +174,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c9bf4d7f81c9ce6",
+  "active": "16ea9cbf22eb8221",
   "lastOpenFiles": [
+    "Inbox/Untitled.md",
+    "hello.md",
+    "Inbox",
+    "Untitled.md",
+    "Untitled 1.md",
     "obsidian setting/How to take notes on markdown.md",
     "obsidian setting/Example Note.md",
-    "Untitled 1.md",
     "test img attach.md",
-    "Untitled.md",
     "Files/Pasted image 20250215151239.png",
-    "hello.md",
     "Files",
     "obsidian setting",
     "test commit.md",

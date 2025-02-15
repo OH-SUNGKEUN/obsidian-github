@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "defaultViewMode": "preview",
   "propertiesInDocument": "source",
   "showLineNumber": true,
