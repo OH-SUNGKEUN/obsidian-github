@@ -1,3 +1,11 @@
 {
-  "promptDelete": false
+  "promptDelete": true,
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "source",
+  "showLineNumber": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "Files"
 }
