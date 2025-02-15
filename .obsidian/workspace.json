@@ -56,19 +56,8 @@
               "icon": "lucide-file",
               "title": "How to take notes on markdown"
             }
-          },
-          {
-            "id": "06a945f132f94263",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,12 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian setting/How to take notes on markdown.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of How to take notes on markdown"
             }
           },
           {
@@ -226,7 +216,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "06a945f132f94263",
+  "active": "8c9bf4d7f81c9ce6",
   "lastOpenFiles": [
     "obsidian setting/How to take notes on markdown.md",
     "hello.md",
