@@ -73,5 +73,6 @@ markdown
 YAML frontmatter
 --> markdown file property
 
-
+control + p : Command pallete
+ctrl + o : Open new file
 

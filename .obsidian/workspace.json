@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "How to take notes on markdown"
             }
-          },
-          {
-            "id": "cf8fbe40c79775a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test img attach.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test img attach"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test img attach.md",
+                "file": "obsidian setting/How to take notes on markdown.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test img attach"
+              "title": "Outline of How to take notes on markdown"
             }
           },
           {
@@ -195,13 +180,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cf8fbe40c79775a4",
+  "active": "8c9bf4d7f81c9ce6",
   "lastOpenFiles": [
+    "test img attach.md",
+    "obsidian setting/How to take notes on markdown.md",
+    "Untitled.md",
     "Files/Pasted image 20250215151239.png",
     "hello.md",
-    "test img attach.md",
     "Files",
-    "obsidian setting/How to take notes on markdown.md",
     "obsidian setting",
     "test commit.md",
     "why.md"
