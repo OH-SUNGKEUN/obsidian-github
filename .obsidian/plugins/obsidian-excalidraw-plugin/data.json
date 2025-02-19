@@ -45,7 +45,7 @@
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
-  "renderImageInHoverPreviewForMDNotes": false,
+  "renderImageInHoverPreviewForMDNotes": true,
   "renderImageInMarkdownToPDF": false,
   "allowPinchZoom": false,
   "allowWheelZoom": false,

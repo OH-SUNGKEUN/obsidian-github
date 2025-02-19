@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b8f410a0a20fb471","type":"group","x":-159,"y":-392,"width":950,"height":674,"color":"2","label":"This gorup"},
+		{"id":"bf1145a4c6c7a1ab","type":"file","file":"Inbox/Biology.md","x":-68,"y":-169,"width":228,"height":314},
+		{"id":"15b1058c861e63dc","type":"file","file":"obsidian setting/Example Note.md","x":278,"y":-255,"width":400,"height":400},
+		{"id":"c1c3ec5a78a95b49","type":"link","url":"https://m.blog.naver.com/supapa0527/221210640438","x":-240,"y":421,"width":400,"height":400},
+		{"id":"8b37465136ca2a28","type":"file","file":"obsidian setting/How to take notes on markdown.md","subpath":"#^5cdf92","x":400,"y":421,"width":400,"height":400},
+		{"id":"b9add2f271647b6a","type":"file","file":"Files/Pasted image 20250215151239.png","x":120,"y":-880,"width":400,"height":395}
+	],
+	"edges":[
+		{"id":"f5ef7e05f022aec9","fromNode":"bf1145a4c6c7a1ab","fromSide":"right","toNode":"15b1058c861e63dc","toSide":"left"}
+	]
+}

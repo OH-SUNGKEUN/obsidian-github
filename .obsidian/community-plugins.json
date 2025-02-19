@@ -1,6 +1,11 @@
 [
-  "obsidian-git",
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "editing-toolbar",
+  "obsidian-outliner",
+  "obsidian-zoom",
+  "calendar",
+  "obsidian-tasks-plugin",
+  "obsidian-git"
 ]

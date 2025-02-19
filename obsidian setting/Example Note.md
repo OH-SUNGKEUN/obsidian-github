@@ -15,4 +15,5 @@ Ways to Organize Notes in Obsidian
 		- [[How to take notes on markdown#Heading 1|this is H1 alias]]
 	- Transclusion(Embed)
 		- ![[How to take notes on markdown#^472285]]
+- Conceopts on biology
 - 

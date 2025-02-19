@@ -4,20 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "b282c4eb56d3f94f",
+        "id": "5a67b73ea2810a8c",
         "type": "tabs",
         "children": [
           {
-            "id": "16ea9cbf22eb8221",
+            "id": "1af595b23601b72f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-15 17.26.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-15 17.26.45.excalidraw"
+            }
+          },
+          {
+            "id": "c4b04fd589789f6f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-15 17.26.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-15 17.26.45.excalidraw"
+            }
+          },
+          {
+            "id": "85e9d90263fa54a5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/대만여행 2025-02-19 20.04.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "대만여행 2025-02-19 20.04.54.excalidraw"
+            }
+          },
+          {
+            "id": "5d8ab0517fb100f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Daily note Template.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily note Template"
+            }
+          },
+          {
+            "id": "cebf69db4d9df1d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily note/2025-02-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-16"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,12 +144,22 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
+          },
+          {
+            "id": "9640c1695ff41377",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.5
   },
   "right": {
     "id": "c3e1e65adfd278f7",
@@ -90,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Cognitive Systems Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Cognitive Systems Engineering"
             }
           },
           {
@@ -108,11 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Cognitive Systems Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Cognitive Systems Engineering"
             }
           },
           {
@@ -136,30 +223,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/대만여행 2025-02-19 20.04.54.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "e8c2886291eb2199",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
+              "title": "Outline of 대만여행 2025-02-19 20.04.54.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,22 +247,35 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "16ea9cbf22eb8221",
+  "active": "85e9d90263fa54a5",
   "lastOpenFiles": [
+    "Files/Pasted Image 20250219200658_732.png",
+    "Excalidraw/Drawing 2025-02-15 17.26.45.excalidraw.md",
+    "Excalidraw/대만여행 2025-02-19 20.04.54.excalidraw.md",
+    "Daily note/2025-02-16.md",
     "Inbox/Untitled.md",
-    "hello.md",
+    "Inbox/Untitled.canvas",
+    "Inbox/Note.md",
+    "Inbox/test img attach.md",
+    "Template/Daily note Template.md",
+    "Inbox/Biology.md",
+    "Daily note/2025-02-15.md",
+    "Files/Pasted image 20250215151239.png",
+    "Template/Reasearch Topic.md",
+    "Inbox/Cognitive Systems Engineering.md",
+    "Excalidraw",
+    "Inbox/hello.md",
+    "obsidian setting/How to take notes on markdown.md",
+    "obsidian setting/Example Note.md",
+    "Daily note",
+    "Template",
     "Inbox",
     "Untitled.md",
     "Untitled 1.md",
-    "obsidian setting/How to take notes on markdown.md",
-    "obsidian setting/Example Note.md",
-    "test img attach.md",
-    "Files/Pasted image 20250215151239.png",
     "Files",
     "obsidian setting",
     "test commit.md",

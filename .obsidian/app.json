@@ -7,5 +7,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "Files",
+  "strictLineBreaks": false
 }
